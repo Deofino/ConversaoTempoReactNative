@@ -8,10 +8,21 @@
     "eject": "expo eject"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@expo-google-fonts/poppins": "^0.1.0",
     "@expo/vector-icons": "^12.0.0",
     "expo": "~40.0.0",
     "expo-font": "~8.4.0",
+=======
+<<<<<<< HEAD
+    "@expo-google-fonts/dev": "^0.1.0",
+    "expo": "~40.0.0",
+=======
+    "@expo-google-fonts/inter": "^0.1.0",
+    "expo": "~40.0.0",
+    "expo-font": "~8.4.0",
+>>>>>>> 70a41c6c761237cc224ef77ef18639102d0d0195
+>>>>>>> 0bdd900854140c6023533d214477ef460a40af68
     "expo-status-bar": "~1.0.3",
     "react": "16.13.1",
     "react-dom": "16.13.1",

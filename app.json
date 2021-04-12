@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "ConversaoTempo",
     "slug": "ConversaoTempo",
+=======
+    "name": "UriConversaoTempo",
+    "slug": "UriConversaoTempo",
+>>>>>>> 0bdd900854140c6023533d214477ef460a40af68
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
